@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\bin\Debug\net7.0\004delenie.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\bin\Debug\net7.0\004delenie.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\bin\Debug\net7.0\004delenie.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\bin\Debug\net7.0\004delenie.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\bin\Debug\net7.0\004delenie.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\obj\Debug\net7.0\004delenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\obj\Debug\net7.0\004delenie.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\obj\Debug\net7.0\004delenie.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\obj\Debug\net7.0\004delenie.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\obj\Debug\net7.0\004delenie.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\obj\Debug\net7.0\refint\004delenie.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\obj\Debug\net7.0\004delenie.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\obj\Debug\net7.0\004delenie.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\004delenie\obj\Debug\net7.0\ref\004delenie.dll
