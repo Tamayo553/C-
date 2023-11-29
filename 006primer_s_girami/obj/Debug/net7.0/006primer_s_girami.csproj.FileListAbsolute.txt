@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\bin\Debug\net7.0\006primer_s_girami.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\bin\Debug\net7.0\006primer_s_girami.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\bin\Debug\net7.0\006primer_s_girami.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\bin\Debug\net7.0\006primer_s_girami.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\bin\Debug\net7.0\006primer_s_girami.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\obj\Debug\net7.0\006primer_s_girami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\obj\Debug\net7.0\006primer_s_girami.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\obj\Debug\net7.0\006primer_s_girami.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\obj\Debug\net7.0\006primer_s_girami.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\obj\Debug\net7.0\006primer_s_girami.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\obj\Debug\net7.0\refint\006primer_s_girami.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\obj\Debug\net7.0\006primer_s_girami.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\obj\Debug\net7.0\006primer_s_girami.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\006primer_s_girami\obj\Debug\net7.0\ref\006primer_s_girami.dll
