@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\bin\Debug\net7.0\001hello_world.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\bin\Debug\net7.0\001hello_world.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\bin\Debug\net7.0\001hello_world.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\bin\Debug\net7.0\001hello_world.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\bin\Debug\net7.0\001hello_world.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\obj\Debug\net7.0\001hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\obj\Debug\net7.0\001hello_world.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\obj\Debug\net7.0\001hello_world.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\obj\Debug\net7.0\001hello_world.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\obj\Debug\net7.0\001hello_world.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\obj\Debug\net7.0\refint\001hello_world.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\obj\Debug\net7.0\001hello_world.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\obj\Debug\net7.0\001hello_world.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\001hello_world\obj\Debug\net7.0\ref\001hello_world.dll
