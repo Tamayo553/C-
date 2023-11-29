@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\bin\Debug\net7.0\002hello_user.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\bin\Debug\net7.0\002hello_user.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\bin\Debug\net7.0\002hello_user.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\bin\Debug\net7.0\002hello_user.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\bin\Debug\net7.0\002hello_user.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\obj\Debug\net7.0\002hello_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\obj\Debug\net7.0\002hello_user.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\obj\Debug\net7.0\002hello_user.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\obj\Debug\net7.0\002hello_user.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\obj\Debug\net7.0\002hello_user.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\obj\Debug\net7.0\refint\002hello_user.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\obj\Debug\net7.0\002hello_user.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\obj\Debug\net7.0\002hello_user.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\002hello_user\obj\Debug\net7.0\ref\002hello_user.dll
