@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\bin\Debug\net7.0\005If.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\bin\Debug\net7.0\005If.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\bin\Debug\net7.0\005If.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\bin\Debug\net7.0\005If.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\bin\Debug\net7.0\005If.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\obj\Debug\net7.0\005If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\obj\Debug\net7.0\005If.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\obj\Debug\net7.0\005If.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\obj\Debug\net7.0\005If.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\obj\Debug\net7.0\005If.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\obj\Debug\net7.0\refint\005If.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\obj\Debug\net7.0\005If.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\obj\Debug\net7.0\005If.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\005If\obj\Debug\net7.0\ref\005If.dll
