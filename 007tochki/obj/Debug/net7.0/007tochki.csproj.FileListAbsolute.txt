@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\bin\Debug\net7.0\007tochki.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\bin\Debug\net7.0\007tochki.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\bin\Debug\net7.0\007tochki.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\bin\Debug\net7.0\007tochki.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\bin\Debug\net7.0\007tochki.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\obj\Debug\net7.0\007tochki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\obj\Debug\net7.0\007tochki.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\obj\Debug\net7.0\007tochki.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\obj\Debug\net7.0\007tochki.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\obj\Debug\net7.0\007tochki.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\obj\Debug\net7.0\refint\007tochki.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\obj\Debug\net7.0\007tochki.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\obj\Debug\net7.0\007tochki.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\007tochki\obj\Debug\net7.0\ref\007tochki.dll
