@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\obj\Debug\net7.0\003+-chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\obj\Debug\net7.0\003+-chisla.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\obj\Debug\net7.0\003+-chisla.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\obj\Debug\net7.0\003+-chisla.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\bin\Debug\net7.0\003+-chisla.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\bin\Debug\net7.0\003+-chisla.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\bin\Debug\net7.0\003+-chisla.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\bin\Debug\net7.0\003+-chisla.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\bin\Debug\net7.0\003+-chisla.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\obj\Debug\net7.0\003+-chisla.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\obj\Debug\net7.0\refint\003+-chisla.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\obj\Debug\net7.0\003+-chisla.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\obj\Debug\net7.0\003+-chisla.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\003+-chisla\obj\Debug\net7.0\ref\003+-chisla.dll
